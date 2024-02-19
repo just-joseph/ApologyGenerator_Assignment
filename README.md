@@ -1,6 +1,6 @@
 # ApologyGenerator_Assignment
 To run this code, use:
-python apology_generator.py --data your_data.csv --model chatgpt
+python Apologygenerator_RAG_JustinJoseph.py --data your_data.csv --model chatgpt
 
 
 This Python code aims to generate apology responses for negative feedback within a user interaction setting. Here's a breakdown of its key components and functionalities:
